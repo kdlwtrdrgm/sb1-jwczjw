@@ -1,0 +1,13 @@
+{
+  "name": "crypto-analyzer",
+  "version": "1.0.0",
+  "description": "A comprehensive crypto analysis tool",
+  "main": "app.py",
+  "scripts": {
+    "start": "python app.py",
+    "analyze": "python main.py"
+  },
+  "dependencies": {
+    "chart.js": "^3.9.1"
+  }
+}
